@@ -11,6 +11,7 @@
 
 * Resources:
   * [Presentation]
+  * [X-ray Pulse Simulation and Inference (X-PSI) code](https://github.com/ThomasEdwardRiley/xpsi)
   * [ICTS Summer Course: Neutron Stars and Black Holes by G. Srinivasan](https://www.icts.res.in/lectures/summercourse-2019-nsbh)
 
 * Related lecture notes:
